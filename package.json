@@ -1,6 +1,6 @@
 {
   "name": "dexswap_uikit",
-  "version": "0.70.49",
+  "version": "0.70.50",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
