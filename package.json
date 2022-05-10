@@ -1,6 +1,6 @@
 {
   "name": "dexswap_uikit",
-  "version": "0.70.48",
+  "version": "0.70.49",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -34,12 +34,12 @@
     "@types/react-dom": "^17.0.5",
     "@types/react-router-dom": "^5.3.2",
     "@types/styled-components": "^5.1.16",
+    "jest": "^22.4.3",
     "jest-styled-components": "^7.0.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
     "styled-components": "^5.3.3",
-    "jest": "^22.4.3",
     "ts-jest": "23.10.5"
   },
   "peerDependencies": {
@@ -52,12 +52,12 @@
     "@popperjs/core": "^2.9.2",
     "@types/lodash": "^4.14.168",
     "@types/styled-system": "^5.1.10",
+    "inter-ui": "^3.13.1",
     "lodash": "^4.17.20",
     "react-popper": "^2.2.5",
     "rollup": "^2.60.2",
     "styled-system": "^5.1.5",
-    "tslib": "^2.3.1",
-    "inter-ui": "^3.13.1"
+    "tslib": "^2.3.1"
   },
   "publishConfig": {
     "access": "public"
